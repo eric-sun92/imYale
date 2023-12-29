@@ -1,4 +1,5 @@
 # IMYale
+Hi, this is a full-stack application project made by Eric Sun.
 
 ## Project Overview
 
@@ -36,7 +37,7 @@ Note: login with your Yale NetID. Some features are exclusive to students in res
 
 ## Installation (to run locally)
 
-`f23-imyale` consists of both frontend and backend components. The `IMYale` folder contains the frontend, while the `IMYaleBackend` folder contains the backend. Before beginning the installation, ensure you have XCode and an iPhone simulator installed.
+`imYale` consists of both frontend and backend components. The `IMYale` folder contains the frontend, while the `IMYaleBackend` folder contains the backend. Before beginning the installation, ensure you have XCode and an iPhone simulator installed.
 
 1. **Prepare Directory and Clone Repo**: Navigate to a desired folder directory in your command line. Ensure that this directory has no spaces in its path. Clone this repository with this command
    `git clone https://github.com/yale-swe/f23-imyale.git`
