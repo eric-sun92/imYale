@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules
+
+# Build files
+build
+
+# macOS files
+.DS_Store
+
+# IDE files
+.idea
+.vscode
+
+**/config.js

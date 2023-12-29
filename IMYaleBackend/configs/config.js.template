@@ -1,0 +1,27 @@
+module.exports = {
+    name: "imyale",
+    version: "1.0.0",
+    hostAPI: "http://localhost:4000",
+    port: 4000,
+    hostClient: "http://localhost:3000",
+    mongodb: {
+        connection: "mongodb://localhost:27017/?retryWrites=true&w=majority",
+    },
+    yaliesAPIKey: "key here",
+    session: {
+        secret: "secret",
+        cookie: {
+            maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+            secure: true,
+        }
+    },
+    cloudfront: {
+        header_name: "imyale-cloudfront",
+        header_value: "secret"
+    },
+    aws: {
+        s3: {
+         prefix: "9dujfhadjf",
+        }
+    }
+}
