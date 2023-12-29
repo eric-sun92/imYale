@@ -1,5 +1,5 @@
 # IMYale
-Hi, this is a full-stack application project made by Eric Sun.
+Made By Eric Sun.
 
 ## Project Overview
 
@@ -40,7 +40,7 @@ Note: login with your Yale NetID. Some features are exclusive to students in res
 `imYale` consists of both frontend and backend components. The `IMYale` folder contains the frontend, while the `IMYaleBackend` folder contains the backend. Before beginning the installation, ensure you have XCode and an iPhone simulator installed.
 
 1. **Prepare Directory and Clone Repo**: Navigate to a desired folder directory in your command line. Ensure that this directory has no spaces in its path. Clone this repository with this command
-   `git clone https://github.com/yale-swe/f23-imyale.git`
+   `git clone https://github.com/eric-sun92/imYale.git`
 
 2. **Install Backend Dependencies**: Execute `cd IMYaleBackend && npm i` to install backend dependencies.
 3. **Run the Backend**: Use `npm start` to run the backend server.
@@ -62,8 +62,7 @@ Codewise, the backend logic for this is implemented in the matchClickController.
 
 ## Tests
 
-Instructions on tests for [frontend](https://github.com/yale-swe/f23-imyale/tree/main/IMYale#readme) and [backend](https://github.com/yale-swe/f23-imyale/tree/main/IMYaleBackend#readme) are in the readme files in corresponding folders, and can be accessed with the links.
+Instructions on tests for [frontend](https://github.com/eric-sun92/imYale/tree/main/IMYale#readme) and [backend](https://github.com/eric-sun92/imYale/tree/main/IMYaleBackend#readme) are in the readme files in corresponding folders, and can be accessed with the links.
 
 ## View Demo
-
-To view a working demo of the app, navigate to the root directory and watch the IMYale App Video [Demo.mov](https://github.com/yale-swe/f23-imyale/blob/metrics_milestone/IMYale%20App%20Video%20Demo.mov) file.
+To view a working demo of the app, navigate to the root directory and watch the IMYale App Video [Demo.mov](https://github.com/eric-sun92/imYale/blob/main/IMYale%20App%20Video%20Demo.mov) file.
